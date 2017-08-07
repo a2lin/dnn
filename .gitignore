@@ -1,0 +1,3 @@
+venv/*
+mnist/MNIST_DATA/*
+mnist/MNIST_data/*
